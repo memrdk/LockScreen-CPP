@@ -1,0 +1,36 @@
+/* THIS FILE WILL BE OVERWRITTEN BY DEV-C++ */
+/* DO NOT EDIT! */
+
+#include <windows.h> // include for version info constants
+
+
+A ICON "BEAUTY.ico"
+
+//
+// TO CHANGE VERSION INFORMATION, EDIT PROJECT OPTIONS...
+//
+1 VERSIONINFO
+FILEVERSION 2,0,0,71
+PRODUCTVERSION 2,0,0,71
+FILETYPE VFT_APP
+{
+  BLOCK "StringFileInfo"
+  {
+    BLOCK "040904E4"
+    {
+      VALUE "CompanyName", "DK Developing OS (DOS)"
+      VALUE "FileVersion", "2.0.0.71"
+      VALUE "FileDescription", "Login Screen Prototype"
+      VALUE "InternalName", "Project BEAUTY"
+      VALUE "LegalCopyright", "All Right Reserved by DK DOS"
+      VALUE "LegalTrademarks", "DK DOS @ 2017-2018"
+      VALUE "OriginalFilename", "LockScreen Test"
+      VALUE "ProductName", "Prototype for LoginScreen"
+      VALUE "ProductVersion", "2.0.0.71"
+    }
+  }
+  BLOCK "VarFileInfo"
+  {
+    VALUE "Translation", 0x0409, 1252
+  }
+}
